@@ -45,9 +45,3 @@ Welcome Arun
 The program is verified.
 
 
-
-
-
-## Output
-
-## Result
