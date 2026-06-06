@@ -36,11 +36,8 @@ obj = Student()
 obj.show()
 ```
 ## Output
-```
-'Enter student name: Arun
-This is non-parameterized constructor
-Welcome Arun
-```
+<img width="1155" height="232" alt="530749055-3b057e4c-8618-467f-9f07-c00ca95bcfe4" src="https://github.com/user-attachments/assets/85589689-ad97-412f-a37f-810b18f02848" />
+
 ## Result
 The program is verified.
 
